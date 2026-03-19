@@ -15,11 +15,22 @@ Perform addition, subtraction, multiplication, and division on arrays with conti
 - Python
 - NumPy
 
-## How to Run
-1. Install NumPy:
-   pip install numpy
-2. Run the script:
-   python filename.py
+## 🚀 How to Use 
+
+Follow these steps to run the Array Calculator:
+
+1. Click **"Remix this app"** to create your own copy.
+2. Click **"Add tools"** and add the **Console**.
+3. Again click **"Add tools"** and add **Files**.
+4. In the Files panel, find and open **array calculator.py** (or your main file).
+5. Click the **Run** button at the top.
+6. Use the calculator in the console by following the prompts.
+
+**"LINK:"** https://replit.com/@Quantum-Yash/ARRAY-CALCULATOR
+        ! if you are facing any error run code "pip install numpy" in console.
+
+⚠️ Note:
+This is a terminal-based application. It runs in the console, not as a web page.
 
 ## Author
 @The QUANTUM Studio
