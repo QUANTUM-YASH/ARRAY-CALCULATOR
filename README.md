@@ -27,7 +27,7 @@ Follow these steps to run the Array Calculator:
 6. Use the calculator in the console by following the prompts.
 
 **"LINK:"** https://replit.com/@Quantum-Yash/ARRAY-CALCULATOR
-        ! if you are facing any error run code "pip install numpy" in console.
+        ! if you are facing any error run code "pip install numpy" in **"shell"**.
 
 ⚠️ Note:
 This is a terminal-based application. It runs in the console, not as a web page.
