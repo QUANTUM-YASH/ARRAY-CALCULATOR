@@ -34,4 +34,5 @@ This is a terminal-based application. It runs in the console, not as a web page.
 
 ## Author
 @The QUANTUM Studio
+
 Yash Raj
