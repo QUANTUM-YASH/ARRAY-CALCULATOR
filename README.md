@@ -22,4 +22,5 @@ Perform addition, subtraction, multiplication, and division on arrays with conti
    python filename.py
 
 ## Author
+@The QUANTUM Studio
 Yash Raj
